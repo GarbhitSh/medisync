@@ -1,4 +1,4 @@
-# medisync
+
 # Medisync - An Integrated AI Healthcare Platform for Diagnosis and Treatment Assistance
 
 ## Problem Statement:
@@ -34,7 +34,7 @@ Medisync addresses the inefficiencies in healthcare systems by offering an innov
 ## Installation Guide:
 1. Clone the repository: `git clone https://github.com/GarbhitSh/medisync.git`
 2. Navigate to the project directory: `cd medisync`
-3. Install dependencies: `pip install -r requirements.txt`
+3. Install dependencies: 
 4. Run migrations: `python manage.py migrate`
 5. Start the development server: `python manage.py runserver`
 
